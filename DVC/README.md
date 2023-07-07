@@ -6,4 +6,14 @@ DVC is stand for Data Version Control
 
 for initailizing -> dvc init
 
+
+
 create dvc.yaml
+
+```
+dvc repro
+```
+
+```
+dvc dag
+```
